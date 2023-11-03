@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maryam1998cloud
-- 👀 I’m interested in front-end developement
-- 🌱 I’m currently learning javascript
+
 
 
 <!---
